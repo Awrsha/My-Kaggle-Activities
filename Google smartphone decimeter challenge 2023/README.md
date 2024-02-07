@@ -12,7 +12,7 @@ This repository contains code for GNSS (Global Navigation Satellite System) posi
 ## Usage
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/yourusername/gnss-positioning.git
+   git clone Google smartphone decimeter challenge 2023/google-smartphone-decimeter-challenge-2023.git
    ```
 
 2. **Install Dependencies**: Install the required Python dependencies by running:
