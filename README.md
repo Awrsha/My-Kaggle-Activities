@@ -15,6 +15,7 @@ Welcome to the Machine Learning Projects Repository! This repository contains a 
 09. **Two sigma playground clarified and criticised** - [Description](https://github.com/Awrsha/Kaggle/tree/master/Two%20sigma%20playground%20clarified%20and%20criticised) of this project.
 10. **house-prices-advanced-regression-techniques** - [Description](https://github.com/Awrsha/Kaggle/tree/master/house-prices-advanced-regression-techniques) of this project.
 11. **Bag of Words Meets Bags of Popcorn** - [Description](https://github.com/Awrsha/Kaggle/tree/master/Bag%20of%20Words%20Meets%20Bags%20of%20Popcorn) of this project.
+12. **Rossman Store Sales** - [Description](https://github.com/Awrsha/Kaggle/tree/master/Rossman%20Store%20Sales) of this project.
 
 Each project has its own README file with detailed information about the dataset, problem statement, methodology, and results.
 
