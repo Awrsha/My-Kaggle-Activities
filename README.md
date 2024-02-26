@@ -17,6 +17,7 @@ Welcome to the Machine Learning Projects Repository! This repository contains a 
 11. **Bag of Words Meets Bags of Popcorn** - [Description](https://github.com/Awrsha/Kaggle/tree/master/Bag%20of%20Words%20Meets%20Bags%20of%20Popcorn) of this project.
 12. **Rossman Store Sales** - [Description](https://github.com/Awrsha/Kaggle/tree/master/Rossman%20Store%20Sales) of this project.
 13. **RSNA Intracranial Hemorrhage Detection Project** - [Description](https://github.com/Awrsha/Kaggle/tree/master/Identify%20acute%20intracranial%20hemorrhage) of this project.
+14. **HMS - Harmful Brain Activity Classification** - [Description](https://github.com/Awrsha/Kaggle/tree/master/HMS%20-%20Harmful%20Brain%20Activity%20Classification) of this project.
 
 Each project has its own README file with detailed information about the dataset, problem statement, methodology, and results.
 
