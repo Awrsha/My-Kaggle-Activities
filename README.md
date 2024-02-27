@@ -46,6 +46,9 @@ Welcome to the Machine Learning Projects Repository! Explore a curated collectio
 ### 14. [HMS - Harmful Brain Activity Classification](https://github.com/Awrsha/Kaggle/tree/master/HMS%20-%20Harmful%20Brain%20Activity%20Classification)
    - **Description**: Explore the realm of neuroinformatics with this project focused on classifying harmful brain activity. Discover the intersection of neuroscience and machine learning in identifying patterns indicative of neurological disorders.
 
+### 15. [ConnectX Agent](https://github.com/Awrsha/Kaggle/tree/master/Connect%20X)
+   - **Description**: This repository contains an agent implemented in Python for playing the game ConnectX. The agent utilizes a strategy based on analyzing patterns on the game board to make informed decisions.
+
 Each project comes with a detailed README file containing information about the dataset, problem statement, methodology, and results.
 
 ## License
