@@ -1,6 +1,6 @@
-# Machine Learning Projects Repository
+# ML, DL and Computer Vision Projects | KAGGLE
 
-Welcome to the Machine Learning Projects Repository! Explore a curated collection of diverse machine learning projects spanning various domains and methodologies.
+Welcome to the KAGGLE Repository! Explore a curated collection of diverse ML, DL and Computer Vision Projects spanning various domains and methodologies.
 
 ## Projects Included :
 
@@ -52,6 +52,8 @@ Welcome to the Machine Learning Projects Repository! Explore a curated collectio
 ### 16. [Revolutionizing Brain Tumor Segmentation Introducing SAM Model](https://github.com/Awrsha/Kaggle/tree/master/Revolutionizing%20Brain%20Tumor%20Segmentation%20Introducing%20SAM%20Model)
    - **Description**: This repository contains an agent implemented in Python for playing the game ConnectX. The agent utilizes a strategy based on analyzing patterns on the game board to make informed decisions.
 
+### 17. [Chest XRay Images | Pneumonia](https://github.com/Awrsha/Kaggle/tree/master/Chest%20XRay%20Images%20(Pneumonia))
+   - **Description**: This repository contains an agent implemented in Python for playing the game ConnectX. The agent utilizes a strategy based on analyzing patterns on the game board to make informed decisions.
 
 Each project comes with a detailed README file containing information about the dataset, problem statement, methodology, and results.
 
