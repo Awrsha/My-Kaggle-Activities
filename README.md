@@ -4,31 +4,31 @@ Welcome to the Machine Learning Projects Repository! Explore a curated collectio
 
 ## Projects Included :
 
-### 1. [5 Flower Types Classification](https://github.com/Awrsha/Kaggle/tree/master/5-Flower-Types-Classification)
+### 01. [5 Flower Types Classification](https://github.com/Awrsha/Kaggle/tree/master/5-Flower-Types-Classification)
    - **Description**: A project focused on classifying five different types of flowers using machine learning techniques. Dive into the world of image classification and discover how machine learning can distinguish between various flower species.
 
-### 2. [Binary Classification with a Bank Churn](https://github.com/Awrsha/Kaggle/tree/master/Binary%20Classification%20with%20a%20Bank%20Churn)
+### 02. [Binary Classification with a Bank Churn](https://github.com/Awrsha/Kaggle/tree/master/Binary%20Classification%20with%20a%20Bank%20Churn)
    - **Description**: Explore the predictive modeling realm with this project, aiming to predict whether a bank customer will churn or not. Understand the intricacies of binary classification and its application in customer retention strategies.
 
-### 3. [Diagnosis of Diabetes](https://github.com/Awrsha/Kaggle/tree/master/Diagnosis%20of%20Diabetes)
+### 03. [Diagnosis of Diabetes](https://github.com/Awrsha/Kaggle/tree/master/Diagnosis%20of%20Diabetes)
    - **Description**: Delve into the healthcare domain with this project focused on diagnosing diabetes using machine learning algorithms. Learn about feature selection, model evaluation, and the importance of domain knowledge in medical data analysis.
 
-### 4. [Fake News](https://github.com/Awrsha/Kaggle/tree/master/Fake%20News)
+### 04. [Fake News](https://github.com/Awrsha/Kaggle/tree/master/Fake%20News)
    - **Description**: Uncover the challenges of identifying fake news in the digital age through this project. Explore natural language processing techniques and text classification algorithms to distinguish between legitimate and fabricated news articles.
 
-### 5. [Google smartphone decimeter challenge 2023](https://github.com/Awrsha/Kaggle/tree/master/Google%20smartphone%20decimeter%20challenge%202023)
+### 05. [Google smartphone decimeter challenge 2023](https://github.com/Awrsha/Kaggle/tree/master/Google%20smartphone%20decimeter%20challenge%202023)
    - **Description**: Engage in a cutting-edge challenge involving smartphone sensor data to predict decimeter-level location accuracy. Witness the intersection of machine learning, sensor technology, and geospatial analysis in this intriguing project.
 
-### 6. [Handwritten Digits Recognition](https://github.com/Awrsha/Kaggle/tree/master/Handwritten-Digits-Recognition)
+### 06. [Handwritten Digits Recognition](https://github.com/Awrsha/Kaggle/tree/master/Handwritten-Digits-Recognition)
    - **Description**: Embark on a journey into the world of computer vision with this project on recognizing handwritten digits. Discover the fundamentals of image processing and classification algorithms through this classic machine learning problem.
 
-### 7. [House Rent Brazil](https://github.com/Awrsha/Kaggle/tree/master/House-Rent-Brazil)
+### 07. [House Rent Brazil](https://github.com/Awrsha/Kaggle/tree/master/House-Rent-Brazil)
    - **Description**: Explore the dynamics of real estate markets with this project focused on predicting house rents in Brazil. Learn about feature engineering, regression techniques, and geographical analysis to estimate rental prices effectively.
 
-### 8. [Titanic - Machine Learning from Disaster](https://github.com/Awrsha/Kaggle/tree/master/Titanic%20-%20Machine%20Learning%20from%20Disaster)
+### 08. [Titanic - Machine Learning from Disaster](https://github.com/Awrsha/Kaggle/tree/master/Titanic%20-%20Machine%20Learning%20from%20Disaster)
    - **Description**: Step aboard the RMS Titanic and embark on a journey to predict passenger survival using machine learning. Analyze historical data, engineer features, and build predictive models to understand the factors influencing survival rates.
 
-### 9. [Two Sigma Playground Clarified and Criticised](https://github.com/Awrsha/Kaggle/tree/master/Two%20sigma%20playground%20clarified%20and%20criticised)
+### 09. [Two Sigma Playground Clarified and Criticised](https://github.com/Awrsha/Kaggle/tree/master/Two%20sigma%20playground%20clarified%20and%20criticised)
    - **Description**: Delve into a playground competition by Two Sigma, where participants analyze financial datasets to predict market trends. Witness the challenges and intricacies of predictive modeling in the realm of finance.
 
 ### 10. [House Prices Advanced Regression Techniques](https://github.com/Awrsha/Kaggle/tree/master/house-prices-advanced-regression-techniques)
@@ -48,6 +48,10 @@ Welcome to the Machine Learning Projects Repository! Explore a curated collectio
 
 ### 15. [ConnectX Agent](https://github.com/Awrsha/Kaggle/tree/master/Connect%20X)
    - **Description**: This repository contains an agent implemented in Python for playing the game ConnectX. The agent utilizes a strategy based on analyzing patterns on the game board to make informed decisions.
+
+### 16. [Revolutionizing Brain Tumor Segmentation Introducing SAM Model](https://github.com/Awrsha/Kaggle/tree/master/Revolutionizing%20Brain%20Tumor%20Segmentation%20Introducing%20SAM%20Model)
+   - **Description**: This repository contains an agent implemented in Python for playing the game ConnectX. The agent utilizes a strategy based on analyzing patterns on the game board to make informed decisions.
+
 
 Each project comes with a detailed README file containing information about the dataset, problem statement, methodology, and results.
 
